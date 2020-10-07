@@ -5,7 +5,7 @@ export default class Main extends Component {
         return (
             <div>
                 <div>
-                    <h1> The Main Page </h1>
+                    <h1> The Main Page : My Welcome Page</h1>
                     <hr />
                 </div>
                 <div>
